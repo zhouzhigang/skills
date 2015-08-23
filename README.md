@@ -12,7 +12,7 @@
     * Presentation
 + Self Management
     * Growth Mindset
-        - Self Learning
+        - [Self Learning](Leaning.md)
         - Keep Curious
         - Critical Thinking
         - Reading
@@ -22,14 +22,27 @@
 ## Professional Skill
 
 + Used in Daily Work
-    * Java
+    * [Java](Java.md)
+        - Java Web
+        - SpringMVC
+        - Spring
+        - Hibernate
     * Liferay
-    * Javascript
+    * Front
+        - Javascript
+        - CSS
+    * Database
+        - MySql
+    * Web Service
+        - SOAP
+        - RESTful
 + Comupter Science
+    * Programming Language
     * Data Structure
     * Algorithm
-    * Computer Orgnization/ Principle
+    * Database
     * Operating System
     * Compiler
     * Computer Network
+    * Computer Orgnization/Principle
 
