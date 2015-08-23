@@ -12,7 +12,7 @@
     * Presentation
 + Self Management
     * Growth Mindset
-        - [Self Learning](Leaning.md)
+        - [Self Learning](Learning.md)
         - Keep Curious
         - Critical Thinking
         - Reading
@@ -36,13 +36,14 @@
     * Web Service
         - SOAP
         - RESTful
+    * Linux
 + Comupter Science
-    * Programming Language
-    * Data Structure
-    * Algorithm
-    * Database
-    * Operating System
-    * Compiler
-    * Computer Network
+    * [Programming Language](../pl)
+    * [Data Structure](../data-structure)
+    * [Algorithm](../algorithm)
+    * [Database](../database)
+    * [Operating System](../os)
+    * [Compiler](../compiler)
+    * [Computer Network](../network)
     * Computer Orgnization/Principle
 
