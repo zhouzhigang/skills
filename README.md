@@ -1,46 +1,8 @@
 # Skills
 
-## Soft Skill
-
-+ People Skills
-    * Communication
-        - Communicate
-        - Feedback
-        - Responsibility
-        - Listening
-    * Teamwork
-    * Presentation
-+ Self Management
-    * Growth Mindset
-        - [Self Learning](Learning.md)
-        - Keep Curious
-        - Critical Thinking
-        - Reading
-    * Time Management
-    * Adaptability
-
 ## Professional/Programming Skill
 
-+ Used in Daily Work(Least)
-    * [Java](Java.md)
-        - Java Web
-        - SpringMVC
-        - Spring
-        - Hibernate
-        - Build tools(Maven)
-    * Liferay
-        - Portlet
-    * Front
-        - HTML
-        - Javascript
-        - CSS
-    * Database
-        - MySql
-    * Web Service
-        - SOAP
-        - RESTful
-    * Linux
-+ Comupter Science
++ Computer Science
     * [Programming Language](https://github.com/zhouzhigang/pl)
         - [Basic Syntax - data types, operations, structure etc](https://github.com/zhouzhigang/pl)
         - [Baisc Data Structures - Array, String, Collections etc](https://github.com/zhouzhigang/data-structure)
@@ -61,13 +23,36 @@
     * [Computer Network](https://github.com/zhouzhigang/network)
     * [Computer Orgnization/Principle]()
 + Software Engineering
-    * [Design Patterns](https://github.com/zhouzhigang/design-pattern)
-    * [Software Architecture, System Design](https://github.com/zhouzhigang/architecture)
+    * Application Development
+        - [Web Application]()
+    * [Software Testing]()
+    * [Software Architecture and Design](https://github.com/zhouzhigang/architecture)
+        - [Design Patterns](https://github.com/zhouzhigang/design-pattern)
+    * [Project Management]
 + [Math](https://github.com/zhouzhigang/math)
 
 ## Business Process Knowledge
 + ERP(Enterprise Resource Planning)
 + Connected Car
+
+## Soft Skill
+
++ People Skills
+    * Communication
+        - Communicate
+        - Feedback
+        - Responsibility
+        - Listening
+    * Teamwork
+    * Presentation
++ Self Management
+    * Growth Mindset
+        - [Self Learning](Learning.md)
+        - Keep Curious
+        - Critical Thinking
+        - Reading
+    * Time Management
+    * Adaptability
 
 ## Reference
 * [Programmer Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix/)
