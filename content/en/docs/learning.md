@@ -1,4 +1,10 @@
-# How to Learn?
+---
+title: "How to Learn"
+date: 2015-08-23
+weight: 2
+description: >
+    Leaning Methods
+---
 
 ## Before Start
 
@@ -28,12 +34,13 @@
     * Document, Conclusion
 
 ## System Learning / Construct Knowledge Network
+
 + Getting Start
     * Why
         - Purpose: solve which problem?
-        - If there is no such technolegy?
-        - Is there any simular technolegy?
-        - Changes after the new technolegy?
+        - If there is no such technology?
+        - Is there any similar technology?
+        - Changes after the new technology?
     * What
         - Basic concept
         - Core function
@@ -41,10 +48,11 @@
         - Quick start documentation
         - Getting started guide
 + Further More
-    * Offical document/reference
+    * Official document/reference
         - Read with practice
-    * Classical Books
-    * Conclusion, Compare, Share
+    * Classical Books(Top 10 Books)
+    * Conclusion, Compare, Correct
+        - Build a Model(Concepts, models, relationships)
     * Source code analysis, contribute
 
 ## Learn from other people
@@ -54,4 +62,17 @@
     * MOOC / Courses
     * Join a community
     * Ask for help
+        - Asking experts
 
+## Share with Feyman Technique
+
+
+---
+
+## Reference
+
++ [Kolb's Learning Cycle](https://www.simplypsychology.org/learning-kolb.html)
++ [The first 20 hours -- how to learn anything](https://book.douban.com/subject/21030587/)
++ [How to Use the Feynman Technique to Learn Faster (With Examples)](https://collegeinfogeek.com/feynman-technique/)
++ [How can you learn faster?](https://www.quora.com/How-can-you-learn-faster)
++ [How can you quickly learn an industry?](https://www.quora.com/How-can-you-quickly-learn-an-industry)

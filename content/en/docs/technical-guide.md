@@ -1,4 +1,10 @@
-# Techenical Guide and Resources
+---
+title: "Technical Guide and Resources"
+date: 2015-08-23
+weight: 3
+description: >
+    Technical Guide and Resources
+---
 
 ## [Guide to Technical Development - Google Careers](https://www.google.com/about/careers/students/guide-to-technical-development.html)
 
@@ -179,7 +185,7 @@
     * [Computer Network - Link layer - SYSU](http://mooc.study.163.com/course/YOOKCS0011-1000003010#/info)
     * [Computer Network - Application - SYSU](http://mooc.study.163.com/course/SYSU-1000002015#/info)
     * [Computer Network - Advance Application - SYSU](http://mooc.study.163.com/course/SYSU-1000003011#/info)
-+ Principles of Computer Orgnization
++ Principles of Computer Organization
     * [Computer Organization - PKU](https://www.coursera.org/course/pkuco)
     * [Principle of Computer Organization - Machine - HIT](http://mooc.study.163.com/course/HIT-1000002002)
     * [Principle of Computer Organization - Number - HIT](http://mooc.study.163.com/course/HIT-1000003000)
